@@ -35,9 +35,10 @@
 .slider-play{
     margin:1rem;
     background-color: white;
-    height:15rem;
+    height:25rem;
     border: 1px solid black;
     border-radius: 10px;
+    
 }
 .slider-playlist{
     display: flex;
@@ -45,7 +46,7 @@
 }
 .playlist-item{
     background-color:white;
-    height: 12rem;
+    height: 18rem;
     width: 50%;
     margin-left: 2rem;
     border: 1px solid black;
@@ -55,7 +56,7 @@
 /* OTT Platforms */
 .box-item{
     border:1px solid white;
-    height:15rem;
+    height:20rem;
     /* width: 12rem; */
 }
 .morePlatformsBtn{
@@ -68,3 +69,10 @@
     height: 11rem;
 }
 
+/* Footer */
+
+.contact{
+    width: 95%;
+    padding: 1rem 1rem;
+    margin:2rem auto;
+}
