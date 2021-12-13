@@ -23,9 +23,9 @@ a{
     margin-bottom: 4rem;
     align-items: center;
 }
-.grid-5-cols{
+.grid-2-cols{
     display: grid;
-    grid-template-columns: repeat(5,1fr);
+    grid-template-columns: repeat(2,1fr);
     margin-left: 2rem;
 }
 .nextBtn{
