@@ -56,10 +56,15 @@
 .box-item{
     border:1px solid white;
     height:15rem;
-    width: 12rem;
+    /* width: 12rem; */
 }
 .morePlatformsBtn{
     font-size: 1.6rem;
     color: white;
     margin: 0rem 39rem;
 }
+
+.logo-platforms{
+    height: 11rem;
+}
+
