@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.header-nav {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 1rem 2.4rem;
+}
+
+.logo{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+}
+.logo:hover{
+    cursor:pointer;
+}
+.menuBar{
+    color:whitesmoke;
+    font-size: 2.2rem;
+    margin-top: 5px;
+}
+
+
+/* Slider */
+
+.slider-posters{
+    margin:1rem;
+    background-color: white;
+    height:22rem;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.slider-play{
+    margin:1rem;
+    background-color: white;
+    height:15rem;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.slider-playlist{
+    display: flex;
+    padding: 1rem 2.4rem;
+}
+.playlist-item{
+    background-color:white;
+    height: 12rem;
+    width: 50%;
+    margin-left: 2rem;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+/* OTT Platforms */
+.box-item{
+    border:1px solid white;
+    height:15rem;
+    width: 12rem;
+}
+.morePlatformsBtn{
+    font-size: 1.6rem;
+    color: white;
+    margin: 0rem 39rem;
+}
