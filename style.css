@@ -28,14 +28,14 @@
     margin:1rem;
     background-color: white;
     height:22rem;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     border-radius: 10px;
 }
 
 .slider-play{
     margin:1rem;
     background-color: white;
-    height:25rem;
+    height:20.5rem;
     border: 1px solid black;
     border-radius: 10px;
     
@@ -55,7 +55,7 @@
 
 /* OTT Platforms */
 .box-item{
-    border:1px solid white;
+    /* border:1px solid white; */
     height:20rem;
     /* width: 12rem; */
 }
