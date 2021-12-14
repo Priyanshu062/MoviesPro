@@ -6,6 +6,11 @@
 body{
     background-color: black;
 }
+/* slideshow */
+
+.slideBtn{
+    color: white;
+}
 .container {
     max-width: 110rem;
     margin: 0 auto;
