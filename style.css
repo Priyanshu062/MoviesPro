@@ -18,7 +18,7 @@
 .menuBar{
     color:whitesmoke;
     font-size: 2.2rem;
-    margin-top: 5px;
+    margin-top: 1rem;
 }
 
 
@@ -30,8 +30,8 @@
     /* background-color: green;  */
     height:22rem;
     /* border: 1px solid black; */
-    border-radius: 10px;
-    padding: 20px;
+    border-radius: 1rem;
+    padding: 1.25rem;
 }
 
 .slider-play{
@@ -39,7 +39,7 @@
     background-color: white;
     height:20.5rem;
     border: 1px solid black;
-    border-radius: 10px;
+    border-radius: 1rem;
     
 }
 .slider-playlist{
@@ -52,7 +52,7 @@
     width: 50%;
     margin-left: 2rem;
     border: 1px solid black;
-    border-radius: 8px;
+    border-radius: 0.5rem;
 }
 
 /* OTT Platforms */
@@ -65,6 +65,12 @@
     font-size: 1.6rem;
     color: white;
     margin: 0rem 39rem;
+}
+.morePlatformsBtn:hover{
+    border: 0.1rem solid #fff;
+    border-radius: 1rem;
+    padding:0.4rem;
+    transition: 0.5s ease;
 }
 
 .logo-platforms{
